@@ -1,2 +1,2 @@
 # hellpeR
-Script em PHP que gera Scrips na programação R --em construção
+Gerador de Scripts no formato .R
